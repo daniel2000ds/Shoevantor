@@ -1,8 +1,8 @@
 # [Shoevantor]
 
-[Value Proposition]
+[Shoes that are the most comfortable for you and fit your style is our priority to our customers. We ask you a series of questions and we look at the shoes you like already and we come to a conclusion to what shoe fits you best.]
 
-[As needed, provide more about what the applicaiton does, the primary stakeholders and the value it brings each.]
+[Initially we wanted the customer to choose a series of shoes and we would come to a final conclusion of what shoe fits you.]
 
 ## Links
 
