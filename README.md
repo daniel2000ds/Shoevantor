@@ -1,4 +1,4 @@
-# [Project Name]
+# [Shoevantor]
 
 [Value Proposition]
 
@@ -6,6 +6,6 @@
 
 ## Links
 
-[Live App](https://repl.it)
+[Live App](https://repl.it/@DannyOgunmoyero/Core-Template-View-Detail)
 
 [Project Board](../../projects/1)
